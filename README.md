@@ -17,6 +17,7 @@ RA: 1460281823024
  
  - 3: Proposta de Solução
  
+ Uma ferramenta que atenda tais exigências, haveria necessidade de ser desenvolvida especificamente para esta atividade respeitando todas regras de negócio, fornecendo uma área para os representantes da marca ou fabrica e um ambiente para os funcionários da agência para que os mesmos repassem as informações em fotos e relatórios para os clientes de cada região e loja devidamente atendida nos respectivos dias pagos. Assim também um ambiente de relatórios Analíticos que forneça tabelas e gráficos para acompanhamento das medidas tomadas e seus resultados.
  
  - 4: Referências
 
