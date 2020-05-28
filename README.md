@@ -13,6 +13,7 @@ RA: 1460281823024
   Controlar e administrar atendimento merchandising local de clientes
   
  - 2: Motivação
+ 
  Ao conversar com o gestor da empresa Mega Promo Merchadising e entender quais dificuldades e obstaculos a empresa tem passado para controlar sua cartela de clientes e atendimento; assim analisando todas as regras de negocios e exigencias expostas pela empresa conseguimos perceber que tais problemas tem uma solução.
  
  - 3: Proposta de Solução
