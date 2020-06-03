@@ -29,6 +29,7 @@ RA: 1460281823024
 # 2ª Quinzena de maio
 
 O merchandising teve seu principio em “meados de 1930 através de simplesmente comerciantes desta época começarem expor seus produtos em vitrines” a partir disso aprimorou-se, surgindo um conjunto de atividades e técnicas que está vinculado ao marketing de empresas, na qual se baseia no estudo de layout adequado ao produto para facilitar o acesso ao cliente. Assim surgindo empresas e agencias que atendam os produtos de diversos fabricantes visando não simplesmente a reposição dentro do PDV(Ponto de Venda) mas com a finalidade de apresentar e repassar informações sobre os produtos disponíveis nos pontos de venda desde validade a limpeza; outros funções que são agregadas às agencias são precificação e especificação dos itens na gondola, realizar rodizio de acordo com a data de validade, exposição privilegiada diante de promoções (Ponto Extras).
+
 Assim para atender tais necessidades estas agencias fornecem diversas fotos desde os produtos expostos na área de venda a estoques e relatórios, mas quando se trata de uma cliente com poucos produtos não se encontra tantas dificuldades para fornecer tais informações. No entanto quando se trata de uma empresa com dezenas e dezenas de clientes e centenas de produtos, alimentar tais dados seja diário, semanal ou mensal se torna cada vez mais difícil a menos que se tenha uma ferramenta especifica para atender a demanda.
 
 
