@@ -42,6 +42,6 @@ Existem algumas variações do merchandising que vale ressaltar, podendo ser div
 
 # 2ª Quinzena de junho
 
-
+Além disso, é comum associar esse tema com promoção, no entanto não se deve limitar somente a venda de um item que esteja em promoção, obviamente há um tempo e um planejamento de estratégia de marketing para que isso aconteça
 
 # 1ª Quinzena de julho
