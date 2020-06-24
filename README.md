@@ -23,8 +23,11 @@ RA: 1460281823024
  - 4: Referências
  
  https://www.iped.com.br/materias/publicidade-marketing/historia-merchandising.html
+ 
  https://www.scielo.br/pdf/rae/v52n6/v52n6a05.pdf
+ 
  http://re.granbery.edu.br/artigos/MzY1.pdf
+ 
  http://www.unisalesiano.edu.br/simposio2011/publicado/artigo0054.pdf
 
 
