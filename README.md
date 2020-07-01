@@ -26,8 +26,10 @@ Ao conversar com o gestor da empresa Mega Promo Merchandising e entender quais d
  
 O sistema administrativo basicamente terá 3 modos de visualizações, o primeiro que se remete ao com maior privilégio, os administradores principais que podem fazer as principais alterações como autorizar, negar e alterar a publicação de fotos e relatórios enviados pelo segundo grupo de usuários, que será os funcionários a campo da agencia, promotores de merchandising que também tem umas da principais responsabilidades profissionais, alimentar o sistema para que o cliente possa ver os trabalhos e ações feitas pela empresa. O terceiro modo de visualização referindo ao cliente ou fabrica, terá a visualização mais simples possível sem nenhum privilégio, somente o de visualização das informações presentes no sistema.
 
+
+
  
- - 4: Referências
+ # 4: Referências
  
  https://www.iped.com.br/materias/publicidade-marketing/historia-merchandising.html
  
