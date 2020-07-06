@@ -28,13 +28,10 @@ O sistema administrativo basicamente terá 3 modos de visualizações, o primeir
  
  # 4: Referências
  
- https://www.iped.com.br/materias/publicidade-marketing/historia-merchandising.html
+ HISTÓRIA DO MERCHANDISING. IPED , 2020. Disponível em: https://www.iped.com.br/materias/publicidade-marketing/historia-merchandising.html Acesso em 07/05/2020.
  
- https://www.scielo.br/pdf/rae/v52n6/v52n6a05.pdf
+ AFONSO, V.; TAKASHI, H.; ZAMITH, E.; BALESTRIN, L. EFEITO DOS FATORES DE MERCHANDISING NAS VENDAS DO VAREJO. Disponível em https://www.scielo.br/pdf/rae/v52n6/v52n6a05.pdf
  
- http://re.granbery.edu.br/artigos/MzY1.pdf
+ FERNANDES, P. O MERCHANDISING EM PONTO-DE-VENDA COMO FERRAMENTA DE ESTRATÉGIA PARA VENDAS NO VAREJO. Disponível em http://re.granbery.edu.br/artigos/MzY1.pdf
  
- http://www.unisalesiano.edu.br/simposio2011/publicado/artigo0054.pdf
-
-
-# 1ª Quinzena de julho
+ SANTOS, L.; GIACOMINI, T. MERCHANDISING - DIFERENCIAL COMPETITIVO NA OTIMIZAÇÃO DE RESULTADOS. Disponível em http://www.unisalesiano.edu.br/simposio2011/publicado/artigo0054.pdf
